@@ -100,6 +100,10 @@ Country → State → City
 
 ![Return Analysis](Screenshot/Return_Analysis.png)
 
+### Full View
+
+![Full View](Screenshot/Full_View.png)
+
 ---
 
 ## Tools Used
